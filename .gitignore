@@ -1,0 +1,12 @@
+# Бинарники
+monitorUtility
+monitorUtility.exe
+*.exe
+*.app
+
+#Настройки IDE
+.idea/
+
+#Логи и ОС
+*.log
+.DS_Store
